@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<?xml-stylesheet type="text/xsl" href="sms.xsl"?>
+<smses count="1">
+  <sms protocol="0" address="55555" date="1335261751265" type="1" subject="null" body="message" toa="null" sc_toa="null" service_center="null" read="1" status="-1" locked="0" date_sent="1335261726000" readable_date="Apr 24, 2012 6:02:31 AM" contact_name="(Unknown)" />
+</smses>
